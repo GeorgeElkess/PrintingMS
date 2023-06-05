@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Projects\SetUp Remon Application\SetUp Remon Application\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Account Payable From Companys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Accounts Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Invoices Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="New Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Oil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Paper Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PassWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ٍSign Up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ٍSolofan_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ِAccounts Information Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

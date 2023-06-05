@@ -1,0 +1,38 @@
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\SetUp Remon Application.exe
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\SetUp Remon Application.deps.json
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\SetUp Remon Application.runtimeconfig.json
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\SetUp Remon Application.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\ref\SetUp Remon Application.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\SetUp Remon Application.pdb
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp Remon Application.csproj.AssemblyReference.cache
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp Remon Application.csproj.GenerateResource.cache
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp Remon Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp Remon Application.AssemblyInfoInputs.cache
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp Remon Application.AssemblyInfo.cs
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp Remon Application.csproj.CoreCompileInputs.cache
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp Remon Application.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\ref\SetUp Remon Application.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp Remon Application.pdb
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp Remon Application.genruntimeconfig.cache
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp Remon Application.csproj.CopyComplete
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.Form1.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.Menu.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.Paper_Form.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application._ٍSign_Up.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.PassWord.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application._ٍSolofan_Form.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.Oil.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.Accounts_Menu.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.New Accounts Information Form.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application._ِAccounts_Information_Form.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.Invoices.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.New_Invoice.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.Invoices_Search.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.Update Invoices.resources
+D:\Projects\SetUp Remon Application\SetUp Remon Application\obj\Debug\net6.0-windows\SetUp_Remon_Application.Account_Payable_From_Companys.resources

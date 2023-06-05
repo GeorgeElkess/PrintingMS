@@ -1,0 +1,11 @@
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\publish\SetUp Remon Application.exe
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\publish\SetUp Remon Application.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\publish\SetUp Remon Application.deps.json
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\publish\SetUp Remon Application.runtimeconfig.json
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\publish\SetUp Remon Application.pdb
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\publish\System.Data.SqlClient.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\publish\runtimes\win-arm64\native\sni.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\publish\runtimes\win-x64\native\sni.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\publish\runtimes\win-x86\native\sni.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\SetUp Remon Application\SetUp Remon Application\bin\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
